@@ -97,6 +97,5 @@ C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\ref\CreateA
 C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\bin\Debug\net9.0\LiteDB.dll
 C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\CreateAndSuccess.csproj.AssemblyReference.cache
 C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\CreateAn.E9C44854.Up2Date
-C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\compressed\fzcm7k1e1h-5ipweew5fc.gz
-C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\compressed\yz459yuvwf-5ipweew5fc.gz
-C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\compressed\ad1v0lugdm-9tvqild5oh.gz
+C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\CreateAndSuccess.sourcelink.json
+C:\Users\HD\Desktop\EmployeePortal\CreateAndSuccess\obj\Debug\net9.0\compressed\ad1v0lugdm-0iaf5b721k.gz
